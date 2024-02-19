@@ -11,7 +11,7 @@ Youri Peskine, Raphaël Troncy, Paolo Papotti.
 EURECOM at SemEval-2024 Task 4: Hierarchical Loss and Model Ensembling in Detecting Persuasion Techniques.
 In Proceedings of the 18th International Workshop on Semantic Evaluation, June 2024, Mexico City, Mexico.
 
-@inproceedings{[EURECOM]Semeval2024task4,
+@inproceedings{EURECOMSemeval2024task4,
 	title={EURECOM at SemEval-2024 Task 4: Hierarchical Loss and Model Ensembling in Detecting Persuasion Techniques},
 	author={Peskine, Youri and Troncy, Raphaël and Papotti, Paolo},
 	booktitle = {Proceedings of the 18th International Workshop on Semantic Evaluation},
